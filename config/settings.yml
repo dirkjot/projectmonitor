@@ -1,4 +1,4 @@
-#
+
 # NOTE: Don't edit this file, it serves as a simple example and a repository
 # for defaults. Instead overwrite the required settings for your environment in
 # config/settings.local.yml
@@ -54,10 +54,10 @@ defaults: &defaults
   # Specify a whitelist of IP addresses allowed to access authentication
   # functions
   #
-  # ip_whitelist:
-  #   - 192.168.1.1
-  #   - 127.0.0.1
-  #   - 203.24.97.1
+  ip_whitelist:
+    - 192.168.1.1
+    - 127.0.0.1
+    - 192.168.99.115
   #
   # If you have a load balancer in front of the application server (for
   # instance on Heroku https://devcenter.heroku.com/articles/ssl-endpoint) set
