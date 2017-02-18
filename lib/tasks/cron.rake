@@ -7,7 +7,7 @@ end
 
 task :start_workers, [:worker_count] => :environment do | t, args |
   args.with_defaults(:worker_count => 1)
-  exec %Q[script/delayed_job start -n "#{args[:worker_count]}"]
+  exec %Q[script/delayed_job start -n 1]
 end
 
 task :stop_workers => :environment do  | t, args |
