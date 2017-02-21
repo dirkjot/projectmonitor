@@ -1,7 +1,7 @@
 ---
 aggregate_projects: []
 projects:
-- guid: 5a6419ae-52e1-4597-94cc-6dc78d73ab9a
+- guid: 21bc18ab-8541-43b8-a4d8-ef1e7a0fb0da
   name: UAP Exception Handling
   deprecated_feed_url: 
   auth_username: ''
@@ -17,10 +17,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - sabretooth
-- guid: 9f324647-7463-4527-b5ae-5f820d6fdf23
+  tag_list: []
+- guid: b5d6a189-a9ca-49ff-995b-96526c7500d2
   name: Address API
   deprecated_feed_url: 
   auth_username: ''
@@ -36,10 +34,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - sabretooth
-- guid: '02425972-7106-4d6b-895b-25d8f836ce0d'
+  tag_list: []
+- guid: ce4d966d-313d-4309-b81f-6f34775b62e5
   name: 21CServicesProxy
   deprecated_feed_url: 
   auth_username: ''
@@ -55,10 +51,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - sabretooth
-- guid: 1c32726c-7da8-4b50-a234-5b01750e8cb4
+  tag_list: []
+- guid: c88412b2-1bbb-43d5-82e4-04a9d5114130
   name: BillingSummary
   deprecated_feed_url: 
   auth_username: ''
@@ -74,10 +68,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - sabretooth
-- guid: 432f192d-fbab-48db-96cb-339bf4117a4c
+  tag_list: []
+- guid: 9e19bb1f-126a-4ac2-8c74-7fe5336073b5
   name: 21C services nightly build
   deprecated_feed_url: 
   auth_username: ''
@@ -93,10 +85,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - sabretooth
-- guid: 8dd4d425-07c2-4377-b41e-7b720b4061b1
+  tag_list: []
+- guid: 0415c12a-e927-4d7f-9a38-db07c0fa1443
   name: Payments API
   deprecated_feed_url: 
   auth_username: ''
@@ -112,10 +102,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - sabretooth
-- guid: 22c3cc17-6b5a-4939-a63b-76c347e93aea
+  tag_list: []
+- guid: 92652f15-5c1a-4132-9c6a-61327bffffbc
   name: SAQ integration
   deprecated_feed_url: 
   auth_username: ''
@@ -131,10 +119,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: ccdd0b7b-d048-4686-996f-1b90ca478a8c
+  tag_list: []
+- guid: 41204d58-d3f3-4069-a1e1-aa217c727b94
   name: 21C SAQ performance
   deprecated_feed_url: 
   auth_username: ''
@@ -150,10 +136,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 2b215fa1-91ab-4805-b388-ce6cd6b9591c
+  tag_list: []
+- guid: 5effaf2e-303e-49ee-ba54-d452a758d10e
   name: 21C QGS integration
   deprecated_feed_url: 
   auth_username: ''
@@ -169,10 +153,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 9075a91e-0cfd-4304-900f-bbc64c6d660c
+  tag_list: []
+- guid: d41d6c33-d92f-475f-b178-dc575ad571dd
   name: 21C QGS performance
   deprecated_feed_url: 
   auth_username: ''
@@ -188,10 +170,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: '01168431-65ce-4b2a-a158-9f7dd77ca430'
+  tag_list: []
+- guid: c84e68b9-62d3-4c56-819e-a8a20970dd60
   name: 21C ZIP integration
   deprecated_feed_url: 
   auth_username: ''
@@ -207,10 +187,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 4dabf140-c273-41a5-a807-ffa4de30c7d6
+  tag_list: []
+- guid: 1002490b-bf77-4726-b984-8579181c7d4a
   name: 21C ZIP performance
   deprecated_feed_url: 
   auth_username: ''
@@ -226,10 +204,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: de6764c1-39ae-4e08-9238-41c2527c0525
+  tag_list: []
+- guid: 40455a58-5314-4e41-8912-7a64348e9510
   name: 21C ACT integration
   deprecated_feed_url: 
   auth_username: ''
@@ -245,10 +221,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 36010c14-e511-4ad1-bb00-e7c978e7838d
+  tag_list: []
+- guid: 2a801894-a2e9-4298-a6ac-952705d19531
   name: 21C ACT performance
   deprecated_feed_url: 
   auth_username: ''
@@ -264,10 +238,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 4155a76d-1ebd-4c19-b350-c8bafb02a20c
+  tag_list: []
+- guid: '08b42111-b8fe-4f66-8e70-1fc3a41fea68'
   name: 21C MVR integration
   deprecated_feed_url: 
   auth_username: ''
@@ -283,10 +255,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: d608f98a-408c-4685-91c2-578dc651e74b
+  tag_list: []
+- guid: 119c060f-d318-4b48-9fa2-9f3568c3c5dd
   name: 21C MVR performance
   deprecated_feed_url: 
   auth_username: ''
@@ -302,10 +272,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: b42a2a59-0687-473f-86a6-132322d386ac
+  tag_list: []
+- guid: '0226559c-6ee1-48db-9ae8-56c33f30fda6'
   name: 21C RC1 integration
   deprecated_feed_url: 
   auth_username: ''
@@ -321,10 +289,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: d2fa6a97-4194-4006-b5b4-922c3d97e236
+  tag_list: []
+- guid: d6bc4215-a842-4082-a730-a208f7175e5a
   name: 21C RC1 performance
   deprecated_feed_url: 
   auth_username: ''
@@ -340,10 +306,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 8391f5ec-54fb-42d2-9f10-34c2fe77f4ea
+  tag_list: []
+- guid: c17ffb7b-161d-476c-8817-2fe744313a45
   name: 21C RC2 integration
   deprecated_feed_url: 
   auth_username: ''
@@ -359,10 +323,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 28a1e9b6-65f7-4a80-8f8e-0959c06e7054
+  tag_list: []
+- guid: badfb1b1-c483-4712-8da8-b61a9915ae75
   name: 21C RC2 performance
   deprecated_feed_url: 
   auth_username: ''
@@ -378,10 +340,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 338e8001-2d1d-46d6-a0ad-680d44c5fee7
+  tag_list: []
+- guid: 91cdb620-86a5-4f1a-ba43-ed01e7ae4f96
   name: 21C BND integration
   deprecated_feed_url: 
   auth_username: ''
@@ -397,10 +357,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 33d450d6-d90e-4df9-a9a6-f705c0aacda5
+  tag_list: []
+- guid: 7239ff42-2938-467c-85a2-e56232e3640a
   name: 21C BND performance
   deprecated_feed_url: 
   auth_username: ''
@@ -416,10 +374,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 63ba4f77-738d-4c9d-891c-6ec1bbae1031
+  tag_list: []
+- guid: 7b0dd733-fb0c-42ee-af54-daf1248d21ff
   name: 21C RTS integration
   deprecated_feed_url: 
   auth_username: ''
@@ -435,10 +391,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 75deaf95-609d-4379-83fa-979fd57e09dd
+  tag_list: []
+- guid: e2dce980-fe86-49db-83cb-ab47066db1a7
   name: 21C RTS performance
   deprecated_feed_url: 
   auth_username: ''
@@ -454,10 +408,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 2a6b58b1-39aa-4e4c-a258-f73ed2da9e00
+  tag_list: []
+- guid: 37f61f7a-e999-427f-9dda-ffc39650bd89
   name: 21C OMS integration
   deprecated_feed_url: 
   auth_username: ''
@@ -473,10 +425,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: c4246b90-9012-4f68-b934-8501e4f849ac
+  tag_list: []
+- guid: 52a754d0-5f4e-41a0-b5d8-f854da841978
   name: 21C OMS performance
   deprecated_feed_url: 
   auth_username: ''
@@ -492,10 +442,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: ffeb8042-831c-4081-9eb6-6ed5e8d45e4e
+  tag_list: []
+- guid: 438b3e10-3b63-4e00-83a9-09a3f01609f4
   name: QGSh
   deprecated_feed_url: 
   auth_username: ''
@@ -511,10 +459,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 9357d4d3-516a-41b7-85e6-cb469b482801
+  tag_list: []
+- guid: b9aa0456-cade-4a16-afc7-e12323de16fc
   name: ACTh
   deprecated_feed_url: 
   auth_username: ''
@@ -530,10 +476,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: f66be514-6785-4098-8bfe-21e69fd8189b
+  tag_list: []
+- guid: 26bb2611-d1e9-4a65-b195-d227fb333628
   name: BNDh
   deprecated_feed_url: 
   auth_username: ''
@@ -549,10 +493,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 17359ce7-0a30-43db-bd0a-d3837882190a
+  tag_list: []
+- guid: 7b946621-6b06-4244-9ab1-51edc0acb1e9
   name: MVRh
   deprecated_feed_url: 
   auth_username: ''
@@ -568,10 +510,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 8ad1c13b-a855-40d6-a207-a76582ab5010
+  tag_list: []
+- guid: d3e2c05b-2d4a-4264-a1ec-c3b55fb75bac
   name: OMSh
   deprecated_feed_url: 
   auth_username: ''
@@ -587,10 +527,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: bd0fdf79-0187-4a9d-899d-9e116cf9b3d8
+  tag_list: []
+- guid: c8c2b86d-de16-4319-9bcd-fdf5ad3a3259
   name: RC1h
   deprecated_feed_url: 
   auth_username: ''
@@ -606,10 +544,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 16a15e28-d908-4bb8-a77b-8794ed8b7e4a
+  tag_list: []
+- guid: 8c73d8d2-79f5-4687-b710-b135956083d3
   name: RC2h
   deprecated_feed_url: 
   auth_username: ''
@@ -625,10 +561,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: fedee852-edff-412b-b585-62b44707986b
+  tag_list: []
+- guid: 503f9c23-0550-48de-9b31-c10195ef7169
   name: RTSh
   deprecated_feed_url: 
   auth_username: ''
@@ -644,10 +578,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 38630cc2-fa4a-4e8c-be17-f015059f5732
+  tag_list: []
+- guid: 003d9fb4-62b3-440e-8353-904a6e241a22
   name: SAQh
   deprecated_feed_url: 
   auth_username: ''
@@ -663,10 +595,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 30c323a6-c10a-424b-8ffa-b1386e207918
+  tag_list: []
+- guid: 07f166ab-4366-404f-9b0b-ffc807dabd04
   name: ZIPh
   deprecated_feed_url: 
   auth_username: ''
@@ -682,10 +612,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: b2145021-7842-42c9-8b07-79e13ba933bf
+  tag_list: []
+- guid: 02f3d7c9-aed0-4115-9497-869484e2342d
   name: ACE Agent Data
   deprecated_feed_url: 
   auth_username: ''
@@ -701,10 +629,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - sabretooth
-- guid: 775ae629-bb4b-46cf-aef2-a2d52062fa32
+  tag_list: []
+- guid: 4cb3bc30-6dbe-41bb-a2ec-83355307b295
   name: Quality Center
   deprecated_feed_url: 
   auth_username: ''
@@ -720,10 +646,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - sabretooth
-- guid: e84a9099-8738-4582-9d4a-3bc3b33003dd
+  tag_list: []
+- guid: 865fd3d6-eb23-4b34-8fa9-70ce29237e5f
   name: Fraud Service health
   deprecated_feed_url: 
   auth_username: ''
@@ -739,10 +663,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: e881364e-d17f-410a-9427-b10b921816ba
+  tag_list: []
+- guid: 9b87b485-6053-4d97-b5ce-90d5e9063305
   name: Fraud Service integration
   deprecated_feed_url: 
   auth_username: ''
@@ -758,10 +680,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 5a227394-4c34-4ea7-bc59-3c581a149ab1
+  tag_list: []
+- guid: 3d76eb20-1a80-46de-baef-0e7ef2f27953
   name: Fraud Service performance
   deprecated_feed_url: 
   auth_username: ''
@@ -777,10 +697,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 37f11531-fff0-4596-a10d-54ba25f1c4f3
+  tag_list: []
+- guid: a3796c9e-67cb-4db0-83d8-b8a64923cfa0
   name: Job Notification health
   deprecated_feed_url: 
   auth_username: ''
@@ -796,10 +714,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 2c6660d1-adac-4207-bea8-3983e3052a10
+  tag_list: []
+- guid: e22e92fb-1c7b-427a-b859-ae0b15b57f41
   name: Job Notification integration
   deprecated_feed_url: 
   auth_username: ''
@@ -815,10 +731,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 8759967b-42b2-42fe-b6ee-4e1997c8f877
+  tag_list: []
+- guid: d8075c1d-3a6e-4797-9218-4cd1ff0f56a8
   name: Job Notification performance
   deprecated_feed_url: 
   auth_username: ''
@@ -834,10 +748,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 9b583fa2-6366-470b-a334-8f3b284c3879
+  tag_list: []
+- guid: 34fc8192-3292-4a96-b61f-d87f70acfa45
   name: Quote Summary
   deprecated_feed_url: 
   auth_username: ''
@@ -853,10 +765,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: df4776c8-b1c2-4407-8d69-56b70974362c
+  tag_list: []
+- guid: 5faced1d-76a2-4524-9e32-7a44195ac85e
   name: Quote Summary
   deprecated_feed_url: 
   auth_username: ''
@@ -872,10 +782,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 4a8db862-9fd2-4a49-8bca-f88dee894c2a
+  tag_list: []
+- guid: 5ca6a89a-13d2-4cc3-871b-5652eaa05bbb
   name: Quote Summary
   deprecated_feed_url: 
   auth_username: ''
@@ -891,10 +799,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: cfdaf9ff-96f1-4550-881c-d6034e1fb75e
+  tag_list: []
+- guid: 9327e711-271f-4471-bc53-7eb57b1e7db0
   name: Activate User Registration
   deprecated_feed_url: 
   auth_username: ''
@@ -910,10 +816,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: bf9afa4e-73c2-4b9c-b03b-a06e69d7774f
+  tag_list: []
+- guid: a6907260-3d1d-460a-95e4-7f704603daa1
   name: Activate User Registration
   deprecated_feed_url: 
   auth_username: ''
@@ -929,10 +833,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 0c7c1233-ed8f-4ce1-85a0-cb643093c3a3
+  tag_list: []
+- guid: c24514fc-8b7a-4dac-a1d6-7a6a183577d6
   name: Activate User Registration
   deprecated_feed_url: 
   auth_username: ''
@@ -948,10 +850,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: e291833f-891e-4ffc-bcc9-13839b1b8430
+  tag_list: []
+- guid: 38e2c374-a329-42c4-902e-ef38f60d06a9
   name: Address Service
   deprecated_feed_url: 
   auth_username: ''
@@ -967,10 +867,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 7d7efbca-1d35-4466-9221-c14eb14fea07
+  tag_list: []
+- guid: 53d4695e-4c09-4237-82e1-0a803cf1cdcf
   name: Address Service
   deprecated_feed_url: 
   auth_username: ''
@@ -986,10 +884,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 536dae2d-4268-4d2a-be15-1f3cb01cd283
+  tag_list: []
+- guid: e4b761a1-2f56-4fcb-b674-fa454278fec8
   name: Address Service
   deprecated_feed_url: 
   auth_username: ''
@@ -1005,10 +901,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: ca748a6a-02e3-494c-a8dc-06262d828026
+  tag_list: []
+- guid: 80ce7c1f-d555-4c75-9af7-9faa14cdfc71
   name: Customer Id Service
   deprecated_feed_url: 
   auth_username: ''
@@ -1024,10 +918,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: c84d9153-4f51-4648-b6e3-d064b790c2d3
+  tag_list: []
+- guid: 12a2720b-c550-4dea-82b0-ada7825c75ab
   name: Customer Id Service
   deprecated_feed_url: 
   auth_username: ''
@@ -1043,10 +935,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: d2dc08d8-0716-4e35-a479-0636c2053041
+  tag_list: []
+- guid: d271a126-e102-4d4e-8a83-b65c78a8004f
   name: Customer Id Service
   deprecated_feed_url: 
   auth_username: ''
@@ -1062,10 +952,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: d31dda86-22f9-45f4-96f5-19e183368c14
+  tag_list: []
+- guid: ecb66050-42b6-464c-bac4-59220ef75e38
   name: Retrieve Quote Service
   deprecated_feed_url: 
   auth_username: ''
@@ -1081,10 +969,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 408b9ef8-43f6-48e3-ae45-0e27ab2f0b9d
+  tag_list: []
+- guid: 7ad67749-4f88-4263-a8b8-200939677930
   name: Retrieve Quote Service
   deprecated_feed_url: 
   auth_username: ''
@@ -1100,10 +986,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: d31697e3-944a-45bb-91de-46511b1c5bcc
+  tag_list: []
+- guid: a590f05e-18aa-4f61-9f04-196eac585483
   name: Retrieve Quote Service
   deprecated_feed_url: 
   auth_username: ''
@@ -1119,10 +1003,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: 349e3340-6f1b-413b-bed0-d4d87efc4901
+  tag_list: []
+- guid: '045194eb-1f48-4c92-8ce5-6c9b6e7343c0'
   name: Enterprise Rules(decisionservicepnieligibility)
   deprecated_feed_url: 
   auth_username: ''
@@ -1138,10 +1020,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: c89a8486-63e6-478e-9c3f-52cee2d2d736
+  tag_list: []
+- guid: de916ef8-e554-45b7-a8b1-85ec5a1e408e
   name: Enterprise Rules(decisionservicepnieligibility)
   deprecated_feed_url: 
   auth_username: ''
@@ -1157,10 +1037,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: e3b595c9-4af8-41d4-969a-73adca143235
+  tag_list: []
+- guid: db059c0c-0a7a-4ab1-95cc-88ab413fb65d
   name: Enterprise Rules(decisionservicepnieligibility)
   deprecated_feed_url: 
   auth_username: ''
@@ -1176,10 +1054,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - smilodon
-- guid: b8bf4ae0-36b0-4866-8a73-f57788d7d3cf
+  tag_list: []
+- guid: 53ebe28c-94f2-47e0-9691-4a80d17caebe
   name: FileNet Build
   deprecated_feed_url: 
   auth_username: ''
@@ -1195,10 +1071,8 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - sabretooth
-- guid: 4e4c81d9-4817-4724-95f7-d57a19cfb0f5
+  tag_list: []
+- guid: 7b9c41fe-da36-4cf4-9d56-8d0403f6c4f6
   name: Quality Center Experience
   deprecated_feed_url: 
   auth_username: ''
@@ -1214,6 +1088,4 @@ projects:
   travis_github_account: 
   travis_repository: 
   webhooks_enabled: true
-  tag_list:
-  - farm
-  - sabretooth
+  tag_list: []
