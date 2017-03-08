@@ -1,0 +1,15 @@
+development: &development
+  adapter: mysql2
+  database: projectmonitor_development
+  host: mysqlserver
+  username: root
+  password: xxx
+  pool: 2
+
+test:
+  <<: *development
+  database: projectmonitor_test
+
+production:
+  <<: *development
+  database: projectmonitor_production
