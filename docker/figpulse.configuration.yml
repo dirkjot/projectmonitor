@@ -1,0 +1,3271 @@
+---
+aggregate_projects: []
+projects:
+- guid: 435100df-6059-4c8e-bc52-3be514333f82
+  name: UAP Exception Handling
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: EXH
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - sabretooth
+- guid: 225953e1-3c1a-4c0a-b527-8d055a1313c4
+  name: Address API
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ADR
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - sabretooth
+- guid: 6d5cf4ef-d1e0-4bb5-80de-f2888d30cf1f
+  name: 21CServicesProxy
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: 21C
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - sabretooth
+- guid: d9e6de7f-8269-4949-b8fb-f0f899ecf5ea
+  name: BillingSummary
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: BILS
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - sabretooth
+- guid: 8283eb3d-0dd8-48f0-91ac-5bd56b9e28f0
+  name: 21C services nightly build
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: 21N
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - sabretooth
+- guid: 5e9a611b-93b9-46a0-a523-a65ffc84d6e8
+  name: Payments API
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: PAY.
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - sabretooth
+- guid: b14ba807-8cd0-4e03-b80b-d9b5e79ad50b
+  name: SAQ integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: SAQi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 4622c994-24ac-48dc-b8de-707b207ca804
+  name: 21C SAQ performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: SAQp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: ddef5802-a4dc-4584-8f8a-3d1266d14197
+  name: 21C QGS integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QGSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 16e04529-970c-4ed8-8339-9b6e18e53977
+  name: 21C QGS performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QGSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: b1634a47-f3c2-4855-afab-962dd91e595d
+  name: 21C ZIP integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ZIPi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 9ba53ba9-c93b-4dde-8e77-0347ef720358
+  name: 21C ZIP performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ZIPp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 19f5569d-1d62-4e3b-907e-947ee9f0b42d
+  name: 21C ACT integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ACTi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 30cd692b-09f1-45ea-bec5-41b3aaf44718
+  name: 21C ACT performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ACTp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: d6a88667-4e1b-458e-b2d2-8988c87692ad
+  name: 21C MVR integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: MVRi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: f4c89f6b-4103-4b35-a7c4-e8fc6e814cdf
+  name: 21C MVR performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: MVRp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 41b02ad6-7b53-4125-ae0a-60425e59b8cf
+  name: 21C RC1 integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RC1i
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 39d85378-e93e-4974-bdb8-188f93496dba
+  name: 21C RC1 performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RC1p
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: b04d6e13-ad41-4732-ae7f-94ddb9311ab7
+  name: 21C RC2 integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RC2i
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 5410decb-e90a-4237-be06-63a71a795c03
+  name: 21C RC2 performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RC2p
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 3af7cf46-03f5-4c68-bc6f-cd7fe1ef8479
+  name: 21C BND integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: BNDi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 71924c81-0686-4a86-bb67-72aea6ca5706
+  name: 21C BND performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: BNDp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: fb1ec8f6-f0ce-4abf-bb55-c1d84db81185
+  name: 21C RTS integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RTSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 14f04978-88dd-4e33-9df9-070df4c32b61
+  name: 21C RTS performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RTSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 26bb28b9-34f1-40d2-92a0-dcac24064d90
+  name: 21C OMS integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: OMSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 3695fe8d-0542-46f6-8219-a82b472dd978
+  name: 21C OMS performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: OMSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 7cead5f1-70b8-461a-b3eb-22ddf78a9786
+  name: QGSh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QGSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 0d95f635-b0d3-4027-8921-eec0329ba553
+  name: ACTh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ACTh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 5010e015-7f86-4120-8c82-3b3e045b7bd8
+  name: BNDh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: BNDh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 948861e5-d689-4732-ac6b-a169bafde27b
+  name: MVRh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: MVRh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 007de4b3-9bd5-4dfe-9ca7-8aad92490b38
+  name: OMSh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: OMSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: cdd6134c-38aa-4bb8-8c5b-f93647eb5f13
+  name: RC1h
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RC1h
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 0d6c9cba-2e70-41fa-a4a3-23c4e8cee496
+  name: RC2h
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RC2h
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 4d366e9e-7494-4186-a6de-40dd806cfa08
+  name: RTSh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RTSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 6c759b2d-991c-4865-9788-0c96d127b5d2
+  name: SAQh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: SAQh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: c9ac7ac0-2679-49ff-b370-d1bf8ff60a3b
+  name: ZIPh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ZIPh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 2752b3f7-7ddd-494d-a948-b0b15e654082
+  name: ACE Agent Data
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ACE.
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - sabretooth
+- guid: 5c543112-1979-4fba-9cf3-aa78805438ed
+  name: Quality Center
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QTC.
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - sabretooth
+- guid: d9ff0f5a-abf4-4df4-ab67-dcadf20caa80
+  name: Fraud Service health
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RCFh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: b5329e21-bb39-4fd3-98f3-ea39e2b9652c
+  name: Fraud Service integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RCFi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 187878bf-ba86-4d5c-9ce6-7a36f9c2447e
+  name: Fraud Service performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RCFp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 79e67473-6ab0-4627-b8c9-bbe07252b44f
+  name: Job Notification health
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: JNSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: d50d3887-c874-4805-8e33-cec210cbe0c2
+  name: Job Notification integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: JNSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 1807d2d0-02be-400d-80a8-125dd5fcbde2
+  name: Job Notification performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: JNSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 704b47db-5071-4a5d-8bd2-f900e93ff0d5
+  name: Quote Summary
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QSSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: c4cccc76-791d-45e1-833f-23a7c4c17324
+  name: Quote Summary
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QSSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 2cd57fb4-a4de-43e2-99a0-9223acb8bdbf
+  name: Quote Summary
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QSSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 5c49fd12-9117-4969-bbfb-5a5bddcf66f6
+  name: Activate User Registration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: AURh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: b488b5b0-f5ff-48e0-88af-b33b0c4ece00
+  name: Activate User Registration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: AURi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 9553c6c0-2486-4bc9-8594-8241c5b58d0c
+  name: Activate User Registration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: AURp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: e9e35330-374e-4a7b-aace-d6318a2975cf
+  name: Address Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ADSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: bf166d37-9c82-4061-9a7a-5cf000c35197
+  name: Address Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ADSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 18ac18d6-1a17-47d2-bd8b-cef1c23503ac
+  name: Address Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ADSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: c0c8bb5d-527a-4512-aea0-2d1f5e3c9ab3
+  name: Customer Id Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: CIDh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 6cea9965-8e7d-48e7-a5c2-1ec6a0d43a16
+  name: Customer Id Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: CIDi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 534ad1ae-863d-4861-a960-9c38cca82fc8
+  name: Customer Id Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: CIDp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: b03f9a69-846c-4159-994a-da65aabb30c6
+  name: Retrieve Quote Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RQSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 6b4cd86a-1294-4d04-94d7-b06c56d53821
+  name: Retrieve Quote Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RQSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 0a1c3a1b-64fa-45b8-9f7c-f88ee8cc4fe5
+  name: Retrieve Quote Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RQSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 9dd11831-3eb1-4448-8ee3-f23b894ca422
+  name: Enterprise Rules(decisionservicepnieligibility)
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ERSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: a67c81f2-5be9-4a27-9a1a-f29992bcb73e
+  name: Enterprise Rules(decisionservicepnieligibility)
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ERSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 2360284b-a19f-419f-8935-d59ffb679f94
+  name: Enterprise Rules(decisionservicepnieligibility)
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ERSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - DEV
+- guid: 71945946-9c7c-4044-ba38-f63988688eff
+  name: FileNet Build
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: FNT.
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - sabretooth
+- guid: a741eaf6-fb3e-4f0b-bd55-d7c7018c19bf
+  name: Quality Center Experience
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QTC
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - sabretooth
+- guid: 4c8ff195-ecab-47d6-b562-443731f9dda8
+  name: SAQ integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: SAQi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: fe370e25-4586-4f96-b813-46bd6002057f
+  name: 21C SAQ performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: SAQp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 64acae96-3561-42b6-a52e-575af82803bf
+  name: 21C QGS integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QGSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 5542d39a-82ca-4658-b492-f8bd6bef9d45
+  name: 21C QGS performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QGSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 3f0351e8-38c1-40c3-87bf-f1a50f9753d8
+  name: 21C ZIP integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ZIPi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 2dc3c316-df17-4d70-9d65-4ec915696ee5
+  name: 21C ZIP performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ZIPp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 94623cb6-0e5d-42d5-98a5-0b89417b0a6a
+  name: 21C ACT integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ACTi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: fce6f933-c21f-4f7f-b059-9f6f1b05d36d
+  name: 21C ACT performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ACTp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: b58aa9e1-54ec-40b8-bcdf-f10b9c51c533
+  name: 21C MVR integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: MVRi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: d0bf34b0-5b37-4150-9aee-1a126b8a852c
+  name: 21C MVR performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: MVRp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: d60a7ce8-b33e-4f8f-826b-e45781b0cdd1
+  name: 21C RC1 integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RC1i
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 8c4dbd1c-c55b-4091-9ab7-6d03f6b848d3
+  name: 21C RC1 performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RC1p
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 13c1e2df-7de4-4ecf-b3ed-6c2067c1bea0
+  name: 21C RC2 integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RC2i
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 2f23af8a-986c-4c12-a938-b356b874593f
+  name: 21C RC2 performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RC2p
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: dfb301fd-fb74-4a73-b95c-2ac1ba96073b
+  name: 21C BND integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: BNDi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: c1d7da21-3e6e-4b94-9504-590c7f4237a9
+  name: 21C BND performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: BNDp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 1c0c8e17-7e1f-499f-9292-668341959488
+  name: 21C RTS integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RTSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: c0fc4cb3-729b-47df-bb0b-b96ecdd699be
+  name: 21C RTS performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RTSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: d9817203-cef5-4865-845d-a8d367939cef
+  name: 21C OMS integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: OMSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 0c29df6d-0ca3-459d-a9fc-ab4d5e75ed11
+  name: 21C OMS performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: OMSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 92523958-d67a-4390-b7fb-71f14f6b600c
+  name: QGSh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QGSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: ce15c637-14bd-4c3c-904a-df75ad01162c
+  name: ACTh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ACTh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: b7a6b113-0d3f-4f6d-98fe-9d00f8588441
+  name: BNDh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: BNDh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: e3d517ee-f0ff-4772-a2fe-92fd48f8022d
+  name: MVRh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: MVRh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 321df29c-2414-4cd1-8673-087e38fb51c0
+  name: OMSh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: OMSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 5210b57a-a0a2-4e2f-93be-5abff0e6ba4d
+  name: RC1h
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RC1h
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 191133c2-d0ec-445a-87a7-be8c64242b96
+  name: RC2h
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RC2h
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 56f929a0-70db-483b-bf70-a3e7de5ea802
+  name: RTSh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RTSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 95bad772-7588-42cf-88bd-bc4c92c707d1
+  name: SAQh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: SAQh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 35646f1c-a9b9-49a1-ab6d-494bacf0fa24
+  name: ZIPh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ZIPh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: ca6c7518-bce1-43e3-9daa-64c7ef5f3d2d
+  name: Fraud Service health
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RCFh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: d79ad22c-f9f9-4962-bc9b-dceb87d3f65e
+  name: Fraud Service integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RCFi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 011f3f9d-f151-4baf-a405-4d92f573f710
+  name: Fraud Service performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RCFp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 861ad0d3-d97f-450a-9c76-4d62fd91d673
+  name: Job Notification health
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: JNSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 177c6e88-5bd5-48e9-934c-ce69bb98053b
+  name: Job Notification integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: JNSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 6db9b72d-252c-4e8d-aebd-87a3906b2de1
+  name: Job Notification performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: JNSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: de2e04f3-f666-4f25-af6e-a1d6b0cb9330
+  name: Quote Summary
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QSSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 39744bfb-59f3-42c5-b31b-cf86654f15ab
+  name: Quote Summary
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QSSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: cbc21010-dc33-4b58-a7b8-44ae46eeed38
+  name: Quote Summary
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QSSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 360b672c-6275-49b9-887f-023497fae5f3
+  name: Activate User Registration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: AURh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: c191e39b-a327-42c4-8e93-1627bc7b98a4
+  name: Activate User Registration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: AURi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 9794917a-9384-4381-9b96-600f09ea3b8d
+  name: Activate User Registration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: AURp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 553df07b-cfb1-4f0f-810d-c9eb5748bdd6
+  name: Address Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ADSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: d170743e-6830-4529-9c1e-5a1215447698
+  name: Address Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ADSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 2c5e1ccf-0d85-4346-8ded-131ed276dda5
+  name: Address Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ADSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 3a56b363-0581-4e5a-980a-d91ad60c862a
+  name: Customer Id Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: CIDh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: aaeff05f-b0a3-41ef-aeb8-bb14ea484a32
+  name: Customer Id Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: CIDi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: '097c1b52-ab61-48a7-9d26-ad78a6c913b6'
+  name: Customer Id Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: CIDp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 69bcc9e2-8a75-4372-abd0-f64764669c36
+  name: Retrieve Quote Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RQSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: b209dba4-e51a-4716-b519-1a44bee149d0
+  name: Retrieve Quote Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RQSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: 4217bb40-32b8-49e3-995f-95798c445e3a
+  name: Retrieve Quote Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RQSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: f1565c24-4ae0-4f3a-b116-f92cae71ceee
+  name: Enterprise Rules(decisionservicepnieligibility)
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ERSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: a940b883-f722-4ad8-a009-db160137b269
+  name: Enterprise Rules(decisionservicepnieligibility)
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ERSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: ad247a42-4763-475c-bf4b-a22a9cc6da56
+  name: Enterprise Rules(decisionservicepnieligibility)
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ERSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - INT
+- guid: d485f966-b46f-4826-9081-716c2ba269c7
+  name: SAQ integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: SAQi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: d8e23ee4-adbc-4654-9118-c825e996ef78
+  name: 21C SAQ performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: SAQp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 90969e61-8d97-4f50-9cbe-86b990039853
+  name: 21C QGS integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QGSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: '02581f2c-157f-4f62-8e60-844187ed81c7'
+  name: 21C QGS performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QGSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 5411ce57-7b9f-4898-81e0-133677f5bfd1
+  name: 21C ZIP integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ZIPi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 1cfd96f0-312d-4ab7-8d98-b6b0eef74709
+  name: 21C ZIP performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ZIPp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: cf946e77-488b-45db-be70-372e8274a072
+  name: 21C ACT integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ACTi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 4610d1d3-3bc3-474a-aaa6-ccf4bd6c7801
+  name: 21C ACT performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ACTp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: c64d1080-e55b-4337-a0ef-a6b7dae633fc
+  name: 21C MVR integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: MVRi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 731fc75e-823d-48b4-ae4a-90198dd9adcd
+  name: 21C MVR performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: MVRp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: f08cc44b-6c6d-4daa-b3c3-10428052cd54
+  name: 21C RC1 integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RC1i
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: bcf422f3-51e2-4f31-a13b-d894553cd2c1
+  name: 21C RC1 performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RC1p
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 5cd7f205-b557-454d-93fc-67cacdf11502
+  name: 21C RC2 integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RC2i
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 5a1a7f00-a770-4a46-a6f2-3ce600dc3013
+  name: 21C RC2 performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RC2p
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: e4f4d2b7-7ced-4eed-8dee-2164e11f9cd4
+  name: 21C BND integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: BNDi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: bcda3cfe-9df5-4d2a-ad64-459ae569b8c0
+  name: 21C BND performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: BNDp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: d295761e-5fef-4f3e-94c6-4cc5af9969ac
+  name: 21C RTS integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RTSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: da0d0f17-d117-4b34-9107-2db3b8098061
+  name: 21C RTS performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RTSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 87e845a6-e1ef-465c-b460-395436f9222e
+  name: 21C OMS integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: OMSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 9783e8eb-662e-4aa9-b720-8404971e0cb2
+  name: 21C OMS performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: OMSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: ae66ec66-1cc2-426c-826a-4b2b0416f706
+  name: QGSh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QGSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: ecdbaf0e-151b-44d3-850d-24c035dbe3bc
+  name: ACTh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ACTh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 06f61f63-2171-4201-aa6f-1de27b9b0567
+  name: BNDh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: BNDh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 184c4260-30d6-47c1-aa4f-02ec4eb87d3f
+  name: MVRh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: MVRh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 93301663-d0bb-4c3f-8a1d-c20574a8c710
+  name: OMSh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: OMSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 1fd45647-cfdb-4e27-9c0f-5d222c69befa
+  name: RC1h
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RC1h
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 804da90f-8204-4524-acf5-9fcef02b23fc
+  name: RC2h
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RC2h
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 5ed2743e-a84b-4b2a-986d-c5929380722b
+  name: RTSh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RTSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: aa3dee63-121f-403c-98a2-f41bbc9d2377
+  name: SAQh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: SAQh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: f4cc1d63-ac8c-4e33-aee9-48a598f51f1d
+  name: ZIPh
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: true
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ZIPh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 44d533b1-1f83-44f4-b94b-32d8cd3677ab
+  name: Fraud Service health
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RCFh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 3d83d7df-3dac-42fb-8114-bf57b5aed525
+  name: Fraud Service integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RCFi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: ecf797bb-d48e-4c39-af2a-ced1688f73c2
+  name: Fraud Service performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RCFp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 3383a420-b8e7-4789-a515-6c01f0e5d138
+  name: Job Notification health
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: JNSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: cde28b7a-a751-4a86-ac8b-b874abf00334
+  name: Job Notification integration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: JNSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: bb08b64a-9759-4efa-bef7-2c27beab55a8
+  name: Job Notification performance
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: JNSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: bf5cb73b-40ab-4ed1-b84d-8a86bcca9133
+  name: Quote Summary
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QSSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 83d4e2b5-750b-4551-b0b0-7564802501af
+  name: Quote Summary
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QSSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: eda9686b-f66c-4d9c-9626-a3051d5fb5a5
+  name: Quote Summary
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: QSSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 60d59bf9-d379-4137-8f20-7a1562f8b136
+  name: Activate User Registration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: AURh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 2f8140a4-f4d9-4e89-9c84-20e795e9e720
+  name: Activate User Registration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: AURi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: e19e3ebb-7591-486f-abf5-36841dba20ed
+  name: Activate User Registration
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: AURp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: '038e812e-4a34-4047-b64f-aa18776ca33b'
+  name: Address Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ADSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: f1dea852-062c-4b33-95d9-80b15993c197
+  name: Address Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ADSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 01cc0f83-dd7a-499a-bfd6-0b658f2ee9d4
+  name: Address Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ADSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 6cbd93d7-fcb6-4ca5-910e-809df0c74f31
+  name: Customer Id Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: ''
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: CIDh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 7589007d-471d-47a3-91d8-308a3e5d2448
+  name: Customer Id Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: CIDi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 442bdd37-902a-491a-b174-98a22bc98a5c
+  name: Customer Id Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: CIDp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: b015ce8f-fae3-4764-bfe6-b925eafbfb6b
+  name: Retrieve Quote Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RQSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: df28a854-25c1-4b6a-b260-30a55d4d5ccc
+  name: Retrieve Quote Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RQSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: e349713a-9312-4db1-b44d-ca34d1c8ad3f
+  name: Retrieve Quote Service
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: RQSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 6d8eed05-0f80-4745-be5b-ecd51c37a1c6
+  name: Enterprise Rules(decisionservicepnieligibility)
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ERSh
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: 97e04541-dbc0-4428-9936-e0bbb8ddc7df
+  name: Enterprise Rules(decisionservicepnieligibility)
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ERSi
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT
+- guid: d47e6aee-81cf-437a-b0f2-42e996c38fb3
+  name: Enterprise Rules(decisionservicepnieligibility)
+  deprecated_feed_url: 
+  auth_username: ''
+  auth_password: 
+  enabled: false
+  type: JenkinsProject
+  aggregate_project_id: 
+  deprecated_latest_status_id: 
+  code: ERSp
+  tracker_project_id: ''
+  tracker_auth_token: ''
+  cruise_control_rss_feed_url: 
+  travis_github_account: 
+  travis_repository: 
+  webhooks_enabled: true
+  tag_list:
+  - farm
+  - AFT

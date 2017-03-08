@@ -26,6 +26,9 @@ RUN  \
   bundle install
 
 WORKDIR projectmonitor
+COPY docker-start.sh ./
+COPY figpulse.configuration.yml ./
+RUN chmod u+x ./docker-start.sh
 
 RUN  \
   service mysqld start ; \
@@ -34,6 +37,12 @@ RUN  \
   RAILS_ENV=production rake db:migrate ; \
   env PROJECT_MONITOR_LOGIN=profburke PROJECT_MONITOR_EMAIL=noreply@pivotal.io PROJECT_MONITOR_PASSWORD=jk456simmons \
       RAILS_ENV=production rake db:seed ; \
-  service mysqld stop 
+  rake projectmonitor:import < figpulse.configuration.yml ; \
+  service mysqld stop
 
-CMD [ "docker-start.sh" ]
+# default port for rails:
+EXPOSE 3000
+
+
+
+CMD [ "/projectmonitor/docker-start.sh" ]
